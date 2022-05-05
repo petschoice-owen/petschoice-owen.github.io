@@ -23,7 +23,8 @@
 @import
   'components/buttons',
   'components/contact-form',
-  'components/masonry';
+  'components/masonry',
+  'components/product-tabs';
 
 // 5. Layout-related sections
 @import
@@ -37,4 +38,6 @@
   'pages/home',
   'pages/values',
   'pages/legal',
-  'pages/news';
+  'pages/news',
+  'pages/varieties',
+  'pages/product';
